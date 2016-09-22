@@ -12,3 +12,9 @@ A place to find all those things I can never remember, but always need.
 
 # React
 - [Setup and environment samsch/js-app-learning](https://github.com/samsch/js-app-learning)
+
+# Service Providers
+
+## SMS
+- [Nexmo](https://www.nexmo.com/products/sms/)
+
