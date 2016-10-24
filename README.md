@@ -14,6 +14,7 @@ A place to find all those things I can never remember, but always need.
 - [Setup and environment samsch/js-app-learning](https://github.com/samsch/js-app-learning)
 - [How to implement validation in React-based form](https://gist.github.com/samsch/fdc503902a66a7b577420b29bcdac843)
 - [Alternate package manager: Yarn](https://yarnpkg.com/)
+- [State-driven Routing, React, Redux, Selectors](http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/)
 
 # Service Providers
 
