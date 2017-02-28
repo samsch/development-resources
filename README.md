@@ -15,6 +15,7 @@ A place to find all those things I can never remember, but always need.
 - [How to implement validation in React-based form](https://gist.github.com/samsch/fdc503902a66a7b577420b29bcdac843)
 - [Alternate package manager: Yarn](https://yarnpkg.com/)
 - [State-driven Routing, React, Redux, Selectors](http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/)
+- [Basic immutable state with PureComponent example](http://codepen.io/anon/pen/ryOvwG?editors=0011)
 
 # Service Providers
 
