@@ -3,7 +3,8 @@ A place to find all those things I can never remember, but always need.
 
 # Security
 - [Stack Overflow: The definitive guide to form-based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication?rq=1)
-
+- Generate self-signed cert with no passphrase:
+ - `openssl req -x509 -newkey rsa:2048 -sha256 -nodes -keyout key.pem -out cert.pem -days 365`
 
 # Javascript
 - Promises
