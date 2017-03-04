@@ -10,6 +10,7 @@ A place to find all those things I can never remember, but always need.
 - Promises
  - [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
  - [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/)
+ - [ES Staging](https://gist.github.com/samsch/6038712759e3ef9cd779)
 
 # React
 - [Setup and environment samsch/js-app-learning](https://github.com/samsch/js-app-learning)
@@ -22,3 +23,12 @@ A place to find all those things I can never remember, but always need.
 
 ## SMS
 - [Nexmo](https://www.nexmo.com/products/sms/)
+
+# Databases
+- [Run Postgres (and pgadmin) in Docker container(s)](https://gist.github.com/samsch/a8a9c81a12cf35fe123ba063a5ecdf33)
+
+# Docker
+- [How to remove unused Docker containers and images](https://gist.github.com/samsch/77ca5e866e6d90cd2260b2a6027abfb5)
+
+# Symfony/PHP
+- [Using DB Constants for Mysql ssl parameters](https://gist.github.com/samsch/d5243de3924a8ad10df2)
