@@ -32,3 +32,6 @@ A place to find all those things I can never remember, but always need.
 
 # Symfony/PHP
 - [Using DB Constants for Mysql ssl parameters](https://gist.github.com/samsch/d5243de3924a8ad10df2)
+
+# Servers
+- [joepie91's Caddy guide](https://gist.github.com/joepie91/2b02afe2dfa65ef1d2b9975ca2d0ece3)
