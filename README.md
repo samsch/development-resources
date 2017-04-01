@@ -4,13 +4,13 @@ A place to find all those things I can never remember, but always need.
 # Security
 - [Stack Overflow: The definitive guide to form-based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication?rq=1)
 - Generate self-signed cert with no passphrase:
- - `openssl req -x509 -newkey rsa:2048 -sha256 -nodes -keyout key.pem -out cert.pem -days 365`
+  - `openssl req -x509 -newkey rsa:2048 -sha256 -nodes -keyout key.pem -out cert.pem -days 365`
 
 # Javascript
 - Promises
- - [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
- - [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/)
- - [ES Staging](https://gist.github.com/samsch/6038712759e3ef9cd779)
+  - [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+  - [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/)
+  - [ES Staging](https://gist.github.com/samsch/6038712759e3ef9cd779)
 
 # React
 - [Setup and environment samsch/js-app-learning](https://github.com/samsch/js-app-learning)
@@ -19,9 +19,9 @@ A place to find all those things I can never remember, but always need.
 - [State-driven Routing, React, Redux, Selectors](http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/)
 - [Basic immutable state with PureComponent example](http://codepen.io/anon/pen/ryOvwG?editors=0011)
 - Reactive React
- - [TODO app with kefir and karet by @rikutiira](https://github.com/rikutiira/react-frp-todomvc)
- - [karet - kefir binding for React elements](https://github.com/calmm-js/karet)
- - [Reactive JS library](http://rpominov.github.io/kefir/)
+  - [TODO app with kefir and karet by @rikutiira](https://github.com/rikutiira/react-frp-todomvc)
+  - [karet - kefir binding for React elements](https://github.com/calmm-js/karet)
+  - [Reactive JS library](http://rpominov.github.io/kefir/)
 
 # Service Providers
 
