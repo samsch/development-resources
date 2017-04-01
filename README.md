@@ -19,7 +19,7 @@ A place to find all those things I can never remember, but always need.
 - [State-driven Routing, React, Redux, Selectors](http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/)
 - [Basic immutable state with PureComponent example](http://codepen.io/anon/pen/ryOvwG?editors=0011)
 - Reactive React
- - [TODO app with kefir and karet by @rikuiira](https://github.com/rikutiira/react-frp-todomvc)
+ - [TODO app with kefir and karet by @rikutiira](https://github.com/rikutiira/react-frp-todomvc)
  - [karet - kefir binding for React elements](https://github.com/calmm-js/karet)
  - [Reactive JS library](http://rpominov.github.io/kefir/)
 
