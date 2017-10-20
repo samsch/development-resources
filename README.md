@@ -10,7 +10,7 @@ A place to find all those things I can never remember, but always need.
 - Promises
   - [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
   - [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/)
-  - [ES Staging](https://gist.github.com/samsch/6038712759e3ef9cd779)
+- [ES Staging](https://gist.github.com/samsch/6038712759e3ef9cd779)
 
 # React
 - [Setup and environment samsch/js-app-learning](https://github.com/samsch/js-app-learning)
