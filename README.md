@@ -29,6 +29,7 @@ A place to find all those things I can never remember, but always need.
 - [Nexmo](https://www.nexmo.com/products/sms/)
 
 # Databases
+- [Create a new project (user + database) in postgres](https://gist.github.com/samsch/3e757528cf30f9b3f49cfbb03bd49503)
 - [Run Postgres (and pgadmin) in Docker container(s)](https://gist.github.com/samsch/a8a9c81a12cf35fe123ba063a5ecdf33)
 
 # Docker
