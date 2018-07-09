@@ -7,7 +7,7 @@ A place to find all those things I can never remember, but always need.
   - `openssl req -x509 -newkey rsa:2048 -sha256 -nodes -keyout key.pem -out cert.pem -days 365`
 
 # Validation
-- Email regex to match browser: `[A-Za-z0-9!#$%&'*+-/=?^_`{|}~]+@[A-Za-z0-9-]+(.[A-Za-z0-9-]+)*`
+- Email regex to match browser: ``[A-Za-z0-9!#$%&'*+-/=?^_`{|}~]+@[A-Za-z0-9-]+(.[A-Za-z0-9-]+)*``
   - [Answer 2](https://stackoverflow.com/questions/4940120/is-there-a-java-implementation-of-the-html5-input-email-validation/4940155#4940155)
   - [Answer 1](https://stackoverflow.com/questions/7786058/find-the-regex-used-by-html5-forms-for-validation)
 
