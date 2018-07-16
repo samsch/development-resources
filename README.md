@@ -36,6 +36,10 @@ A place to find all those things I can never remember, but always need.
 ## SMS
 - [Nexmo](https://www.nexmo.com/products/sms/)
 
+# Deployment
+
+- [Running a Node.js application using nvm as a systemd service](https://gist.github.com/joepie91/73ce30dd258296bd24af23e9c5f761aa)
+
 # Databases
 - [Create new user+DB in Ubuntu](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 - [Create a new project (user + database) in postgres](https://gist.github.com/samsch/3e757528cf30f9b3f49cfbb03bd49503)
