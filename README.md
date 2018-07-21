@@ -21,9 +21,7 @@ A place to find all those things I can never remember, but always need.
 - [Errors package, for Bluebird catchable error types](https://www.npmjs.com/package/errors)
 
 # React
-- [Setup and environment samsch/js-app-learning](https://github.com/samsch/js-app-learning)
 - [How to implement validation in React-based form](https://gist.github.com/samsch/fdc503902a66a7b577420b29bcdac843)
-- [Alternate package manager: Yarn](https://yarnpkg.com/)
 - [State-driven Routing, React, Redux, Selectors](http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/)
 - [Basic immutable state with PureComponent example](http://codepen.io/anon/pen/ryOvwG?editors=0011)
 - Reactive React
@@ -50,6 +48,8 @@ A place to find all those things I can never remember, but always need.
 
 # Symfony/PHP
 - [Using DB Constants for Mysql ssl parameters](https://gist.github.com/samsch/d5243de3924a8ad10df2)
+  - This is from/for outdated versions of Symfony v2.8/3. Not sure how much has changed for later versions.
 
 # Servers
 - [joepie91's Caddy guide](https://gist.github.com/joepie91/2b02afe2dfa65ef1d2b9975ca2d0ece3)
+  - Caddy did a Free Software/OSS to proprietary Bait-n-Switch. I can not recommend using it. Nginx isn't hard to learn, and letencrypt is easy to setup.
