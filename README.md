@@ -56,4 +56,3 @@ A place to find all those things I can never remember, but always need.
 
 # Servers
 - [joepie91's Caddy guide](https://gist.github.com/joepie91/2b02afe2dfa65ef1d2b9975ca2d0ece3)
-  - Caddy did a Free Software/OSS to proprietary Bait-n-Switch. I can not recommend using it. Nginx isn't hard to learn, and letencrypt is easy to setup.
