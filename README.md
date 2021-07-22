@@ -1,10 +1,6 @@
 # development-resources
 A place to find all those things I can never remember, but always need.
 
-# Bootstraps
-
-- [Start a new project with react, eslint, parcel](https://gist.github.com/samsch/53d0153aac5ed030a79d4a22697f1e8c)
-
 # Security
 - [Stack Overflow: The definitive guide to form-based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication?rq=1)
 - Generate self-signed cert with no passphrase:
